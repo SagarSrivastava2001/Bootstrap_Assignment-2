@@ -14,12 +14,11 @@
     padding-top: 632px;
     padding-bottom: 40px;
     letter-spacing: -1.5%;
-    padding-left: 144px;
-    padding-right: 144px;
+    text-align: center;
 }
 
 .padd{
-    padding-bottom: 156px;
+    text-align: center;
 }
 
 .button{
