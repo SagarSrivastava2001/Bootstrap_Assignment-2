@@ -18,7 +18,3 @@ d) The web page should look the same as per the image. Check different bootstrap
 e) This activity will be evaluated on various pointers like Code readability, indentation and formatting, proper naming conventions for classes, proper use of bootstrap. 
 
 
-
-
-https://user-images.githubusercontent.com/125470121/224723888-0aecda1a-0c32-469e-9447-7e4ac24a6eef.mp4
-
